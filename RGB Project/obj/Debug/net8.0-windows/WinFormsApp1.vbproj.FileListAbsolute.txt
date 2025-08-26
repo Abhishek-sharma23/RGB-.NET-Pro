@@ -1,0 +1,64 @@
+C:\Users\DeLL\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DeLL\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DeLL\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DeLL\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\DeLL\Desktop\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\DeLL\Desktop\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\DeLL\Desktop\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\DeLL\Desktop\RGB Project\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+G:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.exe
+G:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+G:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+G:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.dll
+G:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.dll
+G:\RGB Project\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+G:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\RGB Project\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\RGB Project\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\RGB Project\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\RGB Project\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\RGB Project\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
